@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42694'
     url: http://www.gutenberg.org/2009/agents/42694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44321#The-Mentor-January-15-1917-Serial-No.-123American-Miniature-Painters
 gutenberg_issued: '2013-12-01'
 gutenberg_type: Text
 identifiers:
