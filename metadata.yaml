@@ -1,0 +1,26 @@
+_repo: The-Mentor-January-15-1917-Serial-No.-123American-Miniature-Painters_44321
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44321-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lounsbery, Elizabeth
+    gutenberg_agent_id: '42694'
+    url: http://www.gutenberg.org/2009/agents/42694
+description: ''
+gutenberg_issued: '2013-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portrait painters -- United States'
+- !lcc 'ND'
+- !lcsh 'Miniature painting -- United States'
+- !lcsh 'Portrait painting, American -- 19th century'
+title: 'The Mentor: American Miniature Painters, January 15, 1917, Serial No. 123'
+url: http://www.gutenberg.org/ebooks/44321
